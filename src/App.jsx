@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import "./App.css";
 import TodoList from "./assets/TodoList";
 import Ludoboard from "./Ludoboard";
@@ -19,4 +20,25 @@ function App() {
  
  
 }
+=======
+
+//import './App.css'
+
+import WeatherApp from "./assets/WeatherApp";
+
+function App() {
+
+
+  return (
+    <>
+    <WeatherApp/>
+   
+    </>
+
+
+    
+  )
+}
+
+>>>>>>> f46235e (Added weather app)
 export default App;
